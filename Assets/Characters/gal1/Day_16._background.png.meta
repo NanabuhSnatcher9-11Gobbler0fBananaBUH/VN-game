@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 7904f990e91cc2d45b77feaecbcdbe94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8708923838535310045
+    second: Day_16._background_0
+  - first:
+      213: -6221226620878358477
+    second: Day_16._background_1
+  - first:
+      213: 125266725181991904
+    second: Day_16._background_2
+  - first:
+      213: -6356187891853947195
+    second: Day_16._background_3
+  - first:
+      213: -6013409450287875582
+    second: Day_16._background_4
+  - first:
+      213: 6513984071474497822
+    second: Day_16._background_5
+  - first:
+      213: 267745289233090416
+    second: Day_16._background_6
+  - first:
+      213: 2511603721998760919
+    second: Day_16._background_7
+  - first:
+      213: 4890661417083993474
+    second: Day_16._background_8
+  - first:
+      213: 6279420243299032035
+    second: Day_16._background_9
+  - first:
+      213: -8652669378611705043
+    second: Day_16._background_10
+  - first:
+      213: 4507998961433955161
+    second: Day_16._background_11
+  - first:
+      213: 3427735296511703208
+    second: Day_16._background_12
+  - first:
+      213: 2620657705265814010
+    second: Day_16._background_13
+  - first:
+      213: 2601703211588219904
+    second: Day_16._background_14
+  - first:
+      213: 6656712325070856383
+    second: Day_16._background_15
+  - first:
+      213: 2730319848140397504
+    second: Day_16._background_16
+  - first:
+      213: -7087346689716468821
+    second: Day_16._background_17
+  - first:
+      213: 1672258902849643866
+    second: Day_16._background_18
+  - first:
+      213: 4962899736332631812
+    second: Day_16._background_19
+  - first:
+      213: -8671434391917510696
+    second: Day_16._background_20
+  - first:
+      213: 5174620806128494444
+    second: Day_16._background_21
+  - first:
+      213: -64562766026967003
+    second: Day_16._background_22
+  - first:
+      213: -3186455059149986393
+    second: Day_16._background_23
+  - first:
+      213: 2748636878823791363
+    second: Day_16._background_24
+  - first:
+      213: 1934476973982371508
+    second: Day_16._background_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Day_16._background_0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1530
+        width: 281
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325eb2429efa32780800000000000000
+      internalID: -8708923838535310045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1702
+        width: 196
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338775b8953c9a9a0800000000000000
+      internalID: -6221226620878358477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1389
+        width: 226
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb26a04c690db100800000000000000
+      internalID: 125266725181991904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_3
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1582
+        width: 155
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce0864f9c84ac7a0800000000000000
+      internalID: -6356187891853947195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1635
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a3d9227f31c8ca0800000000000000
+      internalID: -6013409450287875582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_5
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1576
+        width: 156
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e194acc1002566a50800000000000000
+      internalID: 6513984071474497822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_6
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 865
+        width: 432
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077c5070ce837b300800000000000000
+      internalID: 267745289233090416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1549
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbf84237420bd220800000000000000
+      internalID: 2511603721998760919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_8
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1352
+        width: 221
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dfff1a5ae1fd340800000000000000
+      internalID: 4890661417083993474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_9
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 591
+        width: 318
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb5c35017bf42750800000000000000
+      internalID: 6279420243299032035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_10
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 831
+        width: 184
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b03f04b0b8be780800000000000000
+      internalID: -8652669378611705043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1083
+        width: 51
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bc918cb21af8e30800000000000000
+      internalID: 4507998961433955161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 566
+        width: 422
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8f5ac5713c19f20800000000000000
+      internalID: 3427735296511703208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_13
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 862
+        width: 64
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af952405c427e5420800000000000000
+      internalID: 2620657705265814010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_14
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1287
+        width: 115
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00475b9594b1b1420800000000000000
+      internalID: 2601703211588219904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_15
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1153
+        width: 111
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb020d34794616c50800000000000000
+      internalID: 6656712325070856383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_16
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1107
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb5b9f9f6b04e520800000000000000
+      internalID: 2730319848140397504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_17
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 702
+        width: 278
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3c86f6cbfa4ad90800000000000000
+      internalID: -7087346689716468821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_18
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 528
+        width: 94
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5566d4bc9e053710800000000000000
+      internalID: 1672258902849643866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_19
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 671
+        width: 24
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f7cfff303cfd440800000000000000
+      internalID: 4962899736332631812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 33
+        width: 446
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfb6a02d50e8a780800000000000000
+      internalID: -8671434391917510696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_21
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 352
+        width: 24
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6762a4f432ffc740800000000000000
+      internalID: 5174620806128494444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_22
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 342
+        width: 290
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528fe31a180aa1ff0800000000000000
+      internalID: -64562766026967003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_23
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 320
+        width: 612
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a56e9a910077c3d0800000000000000
+      internalID: -3186455059149986393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_24
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 265
+        width: 81
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b94daadae152620800000000000000
+      internalID: 2748636878823791363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day_16._background_25
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 81
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be446cfe84a8da10800000000000000
+      internalID: 1934476973982371508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Day_16._background_0: -8708923838535310045
+      Day_16._background_1: -6221226620878358477
+      Day_16._background_10: -8652669378611705043
+      Day_16._background_11: 4507998961433955161
+      Day_16._background_12: 3427735296511703208
+      Day_16._background_13: 2620657705265814010
+      Day_16._background_14: 2601703211588219904
+      Day_16._background_15: 6656712325070856383
+      Day_16._background_16: 2730319848140397504
+      Day_16._background_17: -7087346689716468821
+      Day_16._background_18: 1672258902849643866
+      Day_16._background_19: 4962899736332631812
+      Day_16._background_2: 125266725181991904
+      Day_16._background_20: -8671434391917510696
+      Day_16._background_21: 5174620806128494444
+      Day_16._background_22: -64562766026967003
+      Day_16._background_23: -3186455059149986393
+      Day_16._background_24: 2748636878823791363
+      Day_16._background_25: 1934476973982371508
+      Day_16._background_3: -6356187891853947195
+      Day_16._background_4: -6013409450287875582
+      Day_16._background_5: 6513984071474497822
+      Day_16._background_6: 267745289233090416
+      Day_16._background_7: 2511603721998760919
+      Day_16._background_8: 4890661417083993474
+      Day_16._background_9: 6279420243299032035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

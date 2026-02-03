@@ -1,15 +1,15 @@
 fileFormatVersion: 2
-guid: 279c8b62a5f4e20459283d33dcbf3364
+guid: 14344b78760a831458edd953bddb1fd6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 530114514493512270
-    second: char beninging_0
+      213: 130452656225014213
+    second: Desert_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: char beninging_0
+      name: Desert_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 680
-        height: 680
+        width: 1171
+        height: 781
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e4a1aae97585b5700800000000000000
-      internalID: 530114514493512270
+      spriteID: 5c15c4aeff57fc100800000000000000
+      internalID: 130452656225014213
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      char beninging_0: 530114514493512270
+      Desert_0: 130452656225014213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
