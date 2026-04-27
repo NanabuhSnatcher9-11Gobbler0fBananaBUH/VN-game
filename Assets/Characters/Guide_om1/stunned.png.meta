@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 14344b78760a831458edd953bddb1fd6
+guid: df8f3cb007d02424da8ff247eeea8b34
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 130452656225014213
-    second: Desert_0
+      213: 1799660439864881212
+    second: stunned_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Desert_0
+      name: stunned_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 790
         y: 0
-        width: 1171
-        height: 781
+        width: 2928
+        height: 3917
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c15c4aeff57fc100800000000000000
-      internalID: 130452656225014213
+      spriteID: c30387292ada9f810800000000000000
+      internalID: 1799660439864881212
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Desert_0: 130452656225014213
+      stunned_0: 1799660439864881212
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

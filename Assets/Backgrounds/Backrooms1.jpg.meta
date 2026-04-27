@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 10f319e0f875a374984c286a979cdac1
+guid: d98d4ccbcd2b10247a95c6c73a223bc4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2545320378693130233
-    second: hikers-front-cave_0
+      213: -6337742232876697949
+    second: Backrooms1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hikers-front-cave_0
+      name: Backrooms1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3985
-        height: 2657
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9f71193166bc25320800000000000000
-      internalID: 2545320378693130233
+      spriteID: 3a6b46b9401db08a0800000000000000
+      internalID: -6337742232876697949
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hikers-front-cave_0: 2545320378693130233
+      Backrooms1_0: -6337742232876697949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

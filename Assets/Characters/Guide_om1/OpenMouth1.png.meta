@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 52593844b9ca3994896882149799a752
+guid: a4daff848814f404f8a3a58feab51cd2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 9100628432037306104
-    second: nedladdning_0
+      213: -7807828721340881432
+    second: OpenMouth1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: nedladdning_0
+      name: OpenMouth1_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 790
         y: 0
-        width: 265
-        height: 190
+        width: 2928
+        height: 3917
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fe576c775deb4e70800000000000000
-      internalID: 9100628432037306104
+      spriteID: 8e56265452505a390800000000000000
+      internalID: -7807828721340881432
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      nedladdning_0: 9100628432037306104
+      OpenMouth1_0: -7807828721340881432
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
